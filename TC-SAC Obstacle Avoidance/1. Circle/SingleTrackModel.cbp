@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+   <FileVersion major="1" minor="6" />
+   <Project>
+      <Option title="SingleTrackModel" />
+      <Option makefile_is_custom="1" />
+      <Option compiler="gcc" />
+      <Option virtualFolders="CMake Files\;" />
+      <Build>
+      <Target title="all">
+         <Option working_dir="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 all" />
+            <CompileFile command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="rebuild_cache">
+         <Option working_dir="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 rebuild_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="edit_cache">
+         <Option working_dir="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle" />
+         <Option type="4" />
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 edit_cache" />
+            <CompileFile command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="main">
+         <Option output="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/main" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 main" />
+            <CompileFile command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      <Target title="main/fast">
+         <Option output="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/main" prefix_auto="0" extension_auto="0" />
+         <Option working_dir="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle" />
+         <Option object_output="./" />
+         <Option type="1" />
+         <Option compiler="gcc" />
+         <Compiler>
+            <Add directory="/usr/include" />
+            <Add directory="/usr/include/c++/5" />
+            <Add directory="/usr/include/c++/5/backward" />
+            <Add directory="/usr/include/x86_64-linux-gnu" />
+            <Add directory="/usr/include/x86_64-linux-gnu/c++/5" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include" />
+            <Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+            <Add directory="/usr/local/include" />
+         </Compiler>
+         <MakeCommands>
+            <Build command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 main/fast" />
+            <CompileFile command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 &quot;$file&quot;" />
+            <Clean command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 clean" />
+            <DistClean command="/usr/bin/make -f &quot;/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2.\ TC-SAC\ Tracking/1.\ Circle/SingleTrackModel_dynamic_obstacle/Makefile&quot;  VERBOSE=1 clean" />
+         </MakeCommands>
+      </Target>
+      </Build>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/calc_delta_u.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/calc_delta_u.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/calc_nu.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/calc_nu.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/correct_alpha.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/correct_alpha.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/correct_angle.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/correct_angle.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/df_du.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/df_du.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/df_dx.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/df_dx.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/dl1_du.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/dl1_du.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/dl1_dx.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/dl1_dx.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/dynamic_obstacle.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/dynamic_obstacle.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/finalcost.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/finalcost.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/interpolate_state.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/interpolate_state.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/interpolate_torque.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/interpolate_torque.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/main.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/main.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/reference_trajectory.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/reference_trajectory.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/simu_backODEs.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/simu_backODEs.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/simu_costate.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/simu_costate.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/simu_state.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/simu_state.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/tc_sac.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/tc_sac.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/tire_model.cpp">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/tire_model.h">
+         <Option target="main"/>
+      </Unit>
+      <Unit filename="/media/bjoern/Daten_Ubuntu/bjoern_master_thesis/Presentation/2. TC-SAC Tracking/1. Circle/SingleTrackModel_dynamic_obstacle/CMakeLists.txt">
+          <Option virtualFolder="CMake Files\" />
+      </Unit>
+   </Project>
+</CodeBlocks_project_file>

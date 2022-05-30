@@ -1,0 +1,326 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/calc_delta_u.cpp
+calc_delta_u.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/calc_delta_u.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/calc_delta_u.h
+math.h
+-
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+df_du.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/df_du.h
+dl1_du.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dl1_du.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/calc_nu.cpp
+calc_nu.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/calc_nu.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/calc_nu.h
+math.h
+-
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/correct_alpha.cpp
+correct_alpha.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/correct_alpha.h
+iostream
+-
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/correct_alpha.h
+math.h
+-
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/correct_angle.cpp
+correct_angle.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/correct_angle.h
+iostream
+-
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/correct_angle.h
+math.h
+-
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+vector
+-
+armadillo
+-
+spline.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/spline.h
+complex
+-
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/df_du.cpp
+df_du.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/df_du.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/df_du.h
+math.h
+-
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/df_dx.cpp
+df_dx.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/df_dx.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/df_dx.h
+math.h
+-
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+correct_angle.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/correct_angle.h
+correct_alpha.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/correct_alpha.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dl1_du.cpp
+dl1_du.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dl1_du.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dl1_du.h
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dl1_dx.cpp
+dl1_dx.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dl1_dx.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dl1_dx.h
+math.h
+-
+cmath
+-
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dynamic_obstacle.cpp
+dynamic_obstacle.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dynamic_obstacle.h
+iostream
+-
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dynamic_obstacle.h
+math.h
+-
+correct_angle.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/correct_angle.h
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+vector
+-
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/finalcost.cpp
+finalcost.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/finalcost.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/finalcost.h
+math.h
+-
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/interpolate_state.cpp
+interpolate_state.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/interpolate_state.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/interpolate_state.h
+spline.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/spline.h
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/interpolate_torque.cpp
+interpolate_torque.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/interpolate_torque.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/interpolate_torque.h
+spline.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/spline.h
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/main.cpp
+main.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/main.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/main.h
+iostream
+-
+cstdio
+-
+ctime
+-
+math.h
+-
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+tc_sac.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/tc_sac.h
+reference_trajectory.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/reference_trajectory.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/reference_trajectory.cpp
+reference_trajectory.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/reference_trajectory.h
+iostream
+-
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/reference_trajectory.h
+math.h
+-
+correct_angle.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/correct_angle.h
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+vector
+-
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/simu_backODEs.cpp
+simu_backODEs.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/simu_backODEs.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/simu_backODEs.h
+math.h
+-
+boost/numeric/odeint.hpp
+-
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+correct_angle.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/correct_angle.h
+df_dx.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/df_dx.h
+df_du.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/df_du.h
+dl1_dx.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dl1_dx.h
+dl1_du.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dl1_du.h
+reference_trajectory.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/reference_trajectory.h
+dynamic_obstacle.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dynamic_obstacle.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/simu_costate.cpp
+simu_costate.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/simu_costate.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/simu_costate.h
+math.h
+-
+boost/numeric/odeint.hpp
+-
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+df_dx.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/df_dx.h
+dl1_dx.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dl1_dx.h
+spline.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/spline.h
+correct_angle.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/correct_angle.h
+reference_trajectory.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/reference_trajectory.h
+dynamic_obstacle.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dynamic_obstacle.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/simu_state.cpp
+simu_state.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/simu_state.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/simu_state.h
+math.h
+-
+boost/numeric/odeint/stepper/runge_kutta4.hpp
+-
+boost/numeric/odeint.hpp
+-
+boost/numeric/ublas/vector.hpp
+-
+boost/numeric/ublas/matrix.hpp
+-
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+correct_angle.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/correct_angle.h
+spline.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/spline.h
+reference_trajectory.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/reference_trajectory.h
+dynamic_obstacle.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/dynamic_obstacle.h
+tire_model.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/tire_model.h
+interpolate_state.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/interpolate_state.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/spline.h
+cstdio
+-
+cassert
+-
+vector
+-
+algorithm
+-
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/tc_sac.cpp
+tc_sac.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/tc_sac.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/tc_sac.h
+iostream
+-
+limits
+-
+math.h
+-
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+interpolate_state.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/interpolate_state.h
+interpolate_torque.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/interpolate_torque.h
+simu_state.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/simu_state.h
+simu_costate.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/simu_costate.h
+simu_backODEs.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/simu_backODEs.h
+reference_trajectory.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/reference_trajectory.h
+finalcost.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/finalcost.h
+calc_nu.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/calc_nu.h
+calc_delta_u.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/calc_delta_u.h
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/tire_model.cpp
+tire_model.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/tire_model.h
+iostream
+-
+
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/tire_model.h
+math.h
+-
+correct_alpha.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/correct_alpha.h
+definitions.h
+/media/bjoern/HDD/bjoern_master_thesis/Work_Place/2. TC-SAC Tracking/3.0s/2. Lissajous Figure/definitions.h
+vector
+-
+

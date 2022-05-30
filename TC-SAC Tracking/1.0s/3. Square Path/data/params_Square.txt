@@ -1,0 +1,131 @@
+COMMON PARAMETERS
+
+T_sample: 0.02
+T_Pre: 1
+
+
+SAC PARAMETERS
+
+SAC: 1
+sac_params.k_max: 3
+sac_params.omega: 0.8
+sac_params.w_alpha: -1e+06
+sac_params.S: 
+   1.0000e+07            0
+            0   1.0000e+04
+
+
+
+BRYSON/HO PARAMETERS
+
+bh_params.W(0,0): 1e-07
+bh_params.W(1,1): 0.0001
+bh_params.tol_psi: 0.1
+
+
+COST PARAMETERS
+
+cost_params.P1: 
+0
+0
+0
+0
+10
+0
+0
+cost_params.Q1_control: 
+0
+0
+cost_params.Q1: 
+1
+1
+0
+0.1
+0
+0
+0
+cost_params.c_max: 
+1
+cost_params.c_min: 
+1
+
+cost_params.theta_max: 
+1e+06
+1e+06
+1e+06
+1e+06
+1e+06
+1e+06
+1e+06
+cost_params.theta_min: 
+-1e+06
+-1e+06
+-1e+06
+-1e+06
+-1e+06
+-1e+06
+-1e+06
+cost_params.theta_tol: 
+0
+0
+0
+0
+0
+0
+0
+
+
+INPUT LIMITS
+
+input_limit.min: 
+-3.14159
+-600
+input_limit.max: 
+3.14159
+600
+
+
+Obstacles
+
+cost_params.obstacle_avoid: 
+1e+06
+cost_params.obstacle_x: 
+cost_params.obstacle_y: 
+cost_params.obstacle_r: 
+
+
+TRACK TRAJECTORY
+
+cost_params.trajectory_tracking: 
+1
+
+
+INITIAL STATE
+
+x: 
+0
+0
+0
+10
+0.00174533
+0.00174533
+0.00174533
+0
+
+
+DESIRED STATE
+
+x_d: 
+0
+0
+0
+0
+0
+0
+0
+
+
+SIMULATION TIME
+
+t_stop: 
+62.5
